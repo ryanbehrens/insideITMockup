@@ -1,0 +1,11 @@
+﻿<Placement>
+ 
+  <!--<Place Parts_SchemaMod="Content:10"/>
+  <Place Parts_SchemaMod_Edit="Content:7.5"/>-->
+  
+  <place 
+    Parts_Address_Edit ="Content:5"
+    Parts_Address ="Content:5"
+  />
+  
+</Placement>

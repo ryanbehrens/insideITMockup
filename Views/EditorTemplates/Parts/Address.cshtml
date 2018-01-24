@@ -1,0 +1,17 @@
+﻿@using System.Web.Mvc.Html;
+
+@model SchemaMod.Models.AddressPart
+
+<fieldset>
+    <legend>Adress Fields</legend>
+
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Address)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.Address)
+    </div>
+</fieldset>
+
+
+
